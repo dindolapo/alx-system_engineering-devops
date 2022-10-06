@@ -1,0 +1,1 @@
+- The current working directory script shows the directory we are currently in
