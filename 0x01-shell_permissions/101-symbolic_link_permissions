@@ -1,0 +1,2 @@
+#!/bin/bash
+chown vincent ln s "/alx-system_engineering-devops/0x01-shell_permissions/_hello" "/alx-system_engineering-devops/0x01-shell_permissions/_hello"  chgrp staff ln s "alx-system_engineering-devops/0x01-shell_permissions/_hello" "/alx-system_engineering-sevops/0x01-shell_permissions/_hello"
